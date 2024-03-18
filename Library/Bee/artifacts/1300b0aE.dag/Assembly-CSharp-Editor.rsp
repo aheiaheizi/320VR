@@ -121,6 +121,8 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CROSS_PLATFORM_INPUT
 -define:MOBILE_INPUT
+-define:UDUINO_READY
+-define:UDUINO_MEGA_MESSAGE
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -define:UNITY_EDITOR_ONLY_COMPILATION
@@ -386,6 +388,9 @@
 "Assets/Standard_Assets/Standard Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
 "Assets/Standard_Assets/Standard Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
 "Assets/Standard_Assets/Standard Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
+"Assets/Uduino/Editor/UduinoManagerEditor.cs"
+"Assets/Uduino/Editor/UduinoManagerWindow.cs"
+"Assets/Uduino/Scripts/Extra/Interface/Editor/UduinoInterfaceEditor.cs"
 -langversion:9.0
 
 /deterministic
