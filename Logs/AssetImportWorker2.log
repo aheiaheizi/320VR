@@ -1,0 +1,573 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.4f1 (35713cd46cd7) revision 3502396'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit ProfessionalWorkstation' Language: 'zh' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/GitHub/320
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+1149
+Successfully changed project path to: D:/GitHub/320
+D:/GitHub/320
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8236] Host "[IP] 142.58.215.151 [Port] 0 [Flags] 2 [Guid] 2883763806 [EditorId] 2883763806 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-OT783MHB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8236] Host "[IP] 142.58.215.151 [Port] 0 [Flags] 2 [Guid] 2883763806 [EditorId] 2883763806 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-OT783MHB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 29.31 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 2.81 ms.
+Initialize engine version: 2022.3.4f1 (35713cd46cd7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/320/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1720
+Shader 'Light/RGB': fallback shader 'Lightbeam/Lightbeam' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016366 seconds.
+- Loaded All Assemblies, in  0.590 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 438 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.992 seconds
+Domain Reload Profiling: 1577ms
+	BeginReloadAssembly (145ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (112ms)
+	LoadAllAssembliesAndSetupDomain (255ms)
+		LoadAssemblies (143ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (244ms)
+			TypeCache.Refresh (243ms)
+				TypeCache.ScanAssembly (227ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (992ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (895ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (643ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (161ms)
+			ProcessInitializeOnLoadMethodAttributes (83ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\GitHub\320\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\GitHub\320\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.514 seconds
+Refreshing native plugins compatible for Editor in 15.76 ms, found 15 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.89.0
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.354 seconds
+Domain Reload Profiling: 2864ms
+	BeginReloadAssembly (221ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (1154ms)
+		LoadAssemblies (625ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (624ms)
+			TypeCache.Refresh (536ms)
+				TypeCache.ScanAssembly (508ms)
+			ScanForSourceGeneratedMonoScriptInfo (60ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1355ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1043ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (160ms)
+			ProcessInitializeOnLoadAttributes (753ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Light/RGB': fallback shader 'Lightbeam/Lightbeam' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 12.10 ms, found 15 plugins.
+Preloading 2 native plugins for Editor in 0.05 ms.
+Unloading 6835 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 176 unused Assets / (4.3 MB). Loaded Objects now: 7241.
+Memory consumption went from 281.8 MB to 277.5 MB.
+Total: 6.891300 ms (FindLiveObjects: 0.514500 ms CreateObjectMapping: 0.291000 ms MarkObjects: 4.570900 ms  DeleteObjects: 1.513800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/OpenVRLoaderMetadata.cs: 78bd717ffc012b44a621cd91e5ec1d6e -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/OpenVRBuildProcessor.cs: 8de2bfa56eebe73b7b663c41752f4848 -> 
+  custom:scripting/monoscript/fileName/OpenVRHelpers.cs: 6d9bda50f1d04121c1c9f99735530e6b -> 
+  custom:scripting/monoscript/fileName/OpenVREvents.cs: e21717a554d314c47585a5ab5a2b2c84 -> 
+  custom:scripting/monoscript/fileName/OpenVRLoader.cs: fbbf0001482092886eebcf02bdaaf2f3 -> 
+  custom:scripting/monoscript/fileName/openvr_api.cs: 786c4aaf25db401b6ee74cfd47b4e038 -> d67cc0d5a8403e004dcb9d6b9faf4557
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/MenuUtils.cs: ef61e56f05605c149332b0b451f694ed -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/OpenVRSettings.cs: f6e05471dc77675caeb133a53291cd25 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/OpenVRSettingsCopier.cs: 085a6bb3f7048c30690c20f655297c11 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/OpenVRSettingsEditor.cs: 1e11b364547ce14dd1761c621302d118 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 51116.826088 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/Locomotion/Prefabs/BridgePlatformPf.prefab
+  artifactKey: Guid(d68710cb68b234fcdadef3ef873cd5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/Locomotion/Prefabs/BridgePlatformPf.prefab using Guid(d68710cb68b234fcdadef3ef873cd5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d4cec151c852aa7085a754547525a0') in 0.367227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/CeilingPrefab.prefab
+  artifactKey: Guid(d6d69a15991d35a4ba8e947530abeeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/CeilingPrefab.prefab using Guid(d6d69a15991d35a4ba8e947530abeeab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08afa4f71547f8b625182d9d09665971') in 0.117858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab
+  artifactKey: Guid(0e7ee4df08df88c4880f43398f9ad2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab using Guid(0e7ee4df08df88c4880f43398f9ad2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b128068615bc46b14dd41249e93243da') in 0.474064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 157
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneReleaseAudio.prefab
+  artifactKey: Guid(721e429017725a24fa6362e8d93267a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneReleaseAudio.prefab using Guid(721e429017725a24fa6362e8d93267a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f768c73ee9e63178fd11048d38583ac6') in 0.004400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SteamVR/Prefabs/controller.prefab
+  artifactKey: Guid(e789c2cc0c98a4c4198a4033fb8ccf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/Prefabs/controller.prefab using Guid(e789c2cc0c98a4c4198a4033fb8ccf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92bb90917f041c74858872cc6e7e7d1c') in 0.007948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneGrabAudio.prefab
+  artifactKey: Guid(36f9e4d94e3541446b28a1ffc63010c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneGrabAudio.prefab using Guid(36f9e4d94e3541446b28a1ffc63010c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7088cf36d5e7ec4d9e5d42b1518512db') in 0.003876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Controllers.prefab
+  artifactKey: Guid(ad9b966cab9674348856e3325c3cb4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Controllers.prefab using Guid(ad9b966cab9674348856e3325c3cb4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52f96373fec990682b6c8f133c4ff2e') in 0.006698 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 3.209969 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Locomotion/ControllerTurnerInteractor.prefab
+  artifactKey: Guid(122968827794c2b499a4451e4a8fa2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Locomotion/ControllerTurnerInteractor.prefab using Guid(122968827794c2b499a4451e4a8fa2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3615367faa0fcda283572817e35ac9b2') in 0.004163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.005008 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/CouchPrefab.prefab
+  artifactKey: Guid(83524e9c02f299042bbc10032eec84a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/CouchPrefab.prefab using Guid(83524e9c02f299042bbc10032eec84a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0331af7a606d8b04dc81aff77c1e4b4b') in 0.028236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab
+  artifactKey: Guid(90d8e09703679534295bd2cacb73d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab using Guid(90d8e09703679534295bd2cacb73d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5475e26ac4b7e5e84c7aa9bc7bcc582') in 0.133064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Oculus/VR/Prefabs/Cursor_Timer.prefab
+  artifactKey: Guid(5a7682c244a150b49965c007720bdbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/Cursor_Timer.prefab using Guid(5a7682c244a150b49965c007720bdbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0680b98403bb2d50576dca6e4699e18') in 0.110029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.155191 seconds.
+  path: Assets/Oculus/SampleFramework/Core/DebugUI/Prefabs/DebugDivider.prefab
+  artifactKey: Guid(61d9c2baaf4c42944ae89394cdca96a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/DebugUI/Prefabs/DebugDivider.prefab using Guid(61d9c2baaf4c42944ae89394cdca96a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec02cc6c93a776ab2d72365f8d5a1dc7') in 0.007199 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.005908 seconds.
+  path: Assets/Oculus/SampleFramework/Core/DebugUI/Prefabs/DebugTextField.prefab
+  artifactKey: Guid(1af14ae596d9eeb4b8e4bd30a6c22ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/DebugUI/Prefabs/DebugTextField.prefab using Guid(1af14ae596d9eeb4b8e4bd30a6c22ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8a2075ee56eab0a669848285811ff7') in 0.010263 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.001538 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Prefabs/DemoAnchorPlacement.prefab
+  artifactKey: Guid(bfee9d7faddbe8d40b04d370732cdb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Prefabs/DemoAnchorPlacement.prefab using Guid(bfee9d7faddbe8d40b04d370732cdb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9dc278704011c9d74c7b48ea97efa7') in 0.113626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 45
+========================================================================
+Received Import Request.
+  Time since last request: 0.156387 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Desk.prefab
+  artifactKey: Guid(45d2d4e5a3d2fcd4aa2e59783c030364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Desk.prefab using Guid(45d2d4e5a3d2fcd4aa2e59783c030364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9db4d2598bc01834aa52b47f02ec354') in 0.175906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandLeft.prefab
+  artifactKey: Guid(0242aa8515b4bc947a945a5c6df83ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandLeft.prefab using Guid(0242aa8515b4bc947a945a5c6df83ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f756e5c139b2c6ddba6352bf09fed22a') in 0.031732 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 188
+========================================================================
+Received Import Request.
+  Time since last request: 0.257845 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabPullAudio.prefab
+  artifactKey: Guid(d16133c9c679fed4d9ee5dc47a5a11b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabPullAudio.prefab using Guid(d16133c9c679fed4d9ee5dc47a5a11b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad9a4dc3329710c7f3225b25ccc5b6b') in 0.007387 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.005404 seconds.
+  path: Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabUnhoverAudio.prefab
+  artifactKey: Guid(00d254c069425494ba9774b33386ea29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Audio/Prefabs/DistanceGrabUnhoverAudio.prefab using Guid(00d254c069425494ba9774b33386ea29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab520adc8bf464740bf844684bfb1a5') in 0.007853 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/DistanceHandGrab/DistanceHandGrabInteractor.prefab
+  artifactKey: Guid(8b13b070429a7684eb2c1ae2367ad765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/DistanceHandGrab/DistanceHandGrabInteractor.prefab using Guid(8b13b070429a7684eb2c1ae2367ad765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a089c8cc7bcc7cc79a8f144a09f1ea5') in 0.012699 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 52
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/DoorPrefab.prefab
+  artifactKey: Guid(803133f69c1b27047946a5c125b88814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/DoorPrefab.prefab using Guid(803133f69c1b27047946a5c125b88814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0377ffba3c298a88ea4daa084a72f0e3') in 0.016294 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
+  artifactKey: Guid(95d6df39b16411b4baa291d2b7b78db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab using Guid(95d6df39b16411b4baa291d2b7b78db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b9ac66be2788d34e6c8db32e38ac19') in 0.032008 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab
+  artifactKey: Guid(031d08f52af1daa4f929b85221519426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab using Guid(031d08f52af1daa4f929b85221519426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4afc84d39f1df70b47b377ad29e41321') in 0.104303 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 52
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab
+  artifactKey: Guid(0eb16b4b3e362ef4f97494dd0e686c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab using Guid(0eb16b4b3e362ef4f97494dd0e686c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61ce3a2833d8b2b61aeeb8546332334') in 0.054993 seconds
+Internal: JobTempAlloc has allocations that are more than the maximum lifespan of 4 frames old - this is not allowed and likely a leak
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 34
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab
+  artifactKey: Guid(645413a00f7bd0242bbd6d0e5eb6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab using Guid(645413a00f7bd0242bbd6d0e5eb6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab2193cdf940bf026d10cae97d97cd0') in 0.037765 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Standard_Assets/Standard Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab
+  artifactKey: Guid(af6c1d82d375aa54c81180d14d62761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab using Guid(af6c1d82d375aa54c81180d14d62761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a1cfea18e0cde831eefc202e382eb3') in 0.007341 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/GenericPrefabs/Fallback.prefab
+  artifactKey: Guid(21ec74c3721919145a3607ebf0d4d495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/GenericPrefabs/Fallback.prefab using Guid(21ec74c3721919145a3607ebf0d4d495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0228bb842027de32dbd1897eaa7eda9') in 0.047674 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.846760 seconds.
+  path: Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/FingerTipPokeToolMiddle.prefab
+  artifactKey: Guid(fa0335bbc63fc1b46b9b6d2b41d39f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/FingerTipPokeToolMiddle.prefab using Guid(fa0335bbc63fc1b46b9b6d2b41d39f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcfcf7e0981e915ca35f9fb45c5cc32') in 0.033663 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/FireMobile.prefab
+  artifactKey: Guid(b99a0a5998b2736429fd2a2fd1d01c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/FireMobile.prefab using Guid(b99a0a5998b2736429fd2a2fd1d01c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a05961e43da7a966ca018e9d661b747') in 0.022670 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/Fireworks.prefab
+  artifactKey: Guid(180149b1a35449044a27b451e816d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/Fireworks.prefab using Guid(180149b1a35449044a27b451e816d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0573f8470a7965646f100150c59321') in 0.035290 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 0.219689 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/FlareMobile.prefab
+  artifactKey: Guid(ccbcfc705a39717429590a9f247ec30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/ParticleSystems/Prefabs/FlareMobile.prefab using Guid(ccbcfc705a39717429590a9f247ec30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b35c8156fc54f689e81d62262f07b21') in 0.020252 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.001801 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/FloorPlanePrefab.prefab
+  artifactKey: Guid(a202d380b0eab3c4fbb4825c00a1e0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/FloorPlanePrefab.prefab using Guid(a202d380b0eab3c4fbb4825c00a1e0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d6021eb7dbe2c550d10cfd08e56360d') in 0.021025 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab
+  artifactKey: Guid(3681543e5b0f59742b73073cb379cdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab using Guid(3681543e5b0f59742b73073cb379cdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e78274a69516f58d55fb917332b128b') in 0.038256 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab
+  artifactKey: Guid(584a8ef4749c89745b7ae07f3ba7617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard_Assets/Standard Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab using Guid(584a8ef4749c89745b7ae07f3ba7617f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7466eb959a38275845cf67f673855f') in 0.079747 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.271670 seconds.
+  path: Assets/Escape(Game Kit)/Prefabs/FPSController.prefab
+  artifactKey: Guid(8694004fe440e8846b4576ac9b848468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escape(Game Kit)/Prefabs/FPSController.prefab using Guid(8694004fe440e8846b4576ac9b848468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ced1b11e5be3646f5ebceab04376a77') in 0.019943 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.003171 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Hands/FromLeftHandPrefab.prefab
+  artifactKey: Guid(89d9bd3877c332b4d80a3741624b14ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Hands/FromLeftHandPrefab.prefab using Guid(89d9bd3877c332b4d80a3741624b14ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0134d2dfbd3291ea4d9a118c2c191a93') in 0.002527 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Hands/FromRightHandPrefab.prefab
+  artifactKey: Guid(827218c3f444cbe4eb2de1343f6b68cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Hands/FromRightHandPrefab.prefab using Guid(827218c3f444cbe4eb2de1343f6b68cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eeafe06a74b9bce045660a8d8d55772') in 0.002425 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.001414 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/GenericPrefab.prefab
+  artifactKey: Guid(4448d19be5174b04aaffd0f79363db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/GenericPrefab.prefab using Guid(4448d19be5174b04aaffd0f79363db90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbeaa0ee8477dce35c70bb31c484c3c') in 0.021372 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.005344 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/GlobalMesh/Global Mesh Collider.prefab
+  artifactKey: Guid(3af5572e5d3ab6945bd09b4face9367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/GlobalMesh/Global Mesh Collider.prefab using Guid(3af5572e5d3ab6945bd09b4face9367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe61228eadbe83d6a8cfb46672fac7f') in 0.005585 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 由于线程退出或应用程序请求，已中止 I/O 操作。
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+320VR.psd filter=lfs diff=lfs merge=lfs -text
+320VR.library filter=lfs diff=lfs merge=lfs -text

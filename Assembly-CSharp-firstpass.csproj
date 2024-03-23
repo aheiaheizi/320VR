@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp-firstpass\</OutputPath>
-    <DefineConstants>UNITY_2022_3_4;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CROSS_PLATFORM_INPUT;UDUINO_READY;UDUINO_WIFI;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_4;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CROSS_PLATFORM_INPUT;MOBILE_INPUT;UDUINO_READY;UDUINO_MEGA_MESSAGE;USE_INPUT_SYSTEM_POSE_CONTROL;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -45,60 +45,60 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
+     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
      <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
-     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
-     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
-     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
-     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
-     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
-     <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
      <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
      <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
-     <Compile Include="Assets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <Folder Include="Assets\Standard Assets\Characters\RollerBall\Scripts" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
@@ -260,12 +260,6 @@
      <Reference Include="UnityEngine.ClothModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.ClusterInputModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterRendererModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEngine.ContentLoadModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
      </Reference>
@@ -425,9 +419,6 @@
      <Reference Include="UnityEngine.VideoModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.VirtualTexturingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEngine.WindModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
      </Reference>
@@ -490,6 +481,9 @@
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
      <HintPath>D:\GitHub\320\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Valve.Newtonsoft.Json">
+     <HintPath>D:\GitHub\320\Assets\SteamVR\Input\Plugins\JSON.NET\Valve.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -875,20 +869,26 @@
      <Reference Include="System.Xml.XPath.XDocument">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <Reference Include="Unity.XR.Management">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.CoreUtils">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
@@ -896,14 +896,32 @@
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <Reference Include="Unity.XR.Management.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.CoreUtils.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.CoreUtils.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Oculus.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Interaction.Toolkit">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.EditorCoroutines.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
@@ -911,41 +929,297 @@
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="UnityEditor.SpatialTracking">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.VisualScripting.Core">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <Reference Include="UnityEngine.SpatialTracking">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Timeline">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.InputSystem">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.InputSystem.ForUI">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Oculus">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
+      <Project>{b12324d1-0195-c0f7-9fcc-5a277876f9c9}</Project>
+      <Name>Oculus.Interaction.OVR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.csproj">
+      <Project>{d55fc2c3-def2-afcb-7f4a-6851d842b4c2}</Project>
+      <Name>Facebook.Wit.Dictation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.LiveUnderstanding.csproj">
+      <Project>{f1d1eb1b-2296-d19d-304d-2bd88835167b}</Project>
+      <Name>Meta.Voice.Samples.LiveUnderstanding</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Lib.csproj">
+      <Project>{0dd7c1e9-fdab-e0e6-f4e3-bc8ffda53774}</Project>
+      <Name>Meta.WitAi.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Runtime.csproj">
+      <Project>{293e7d9a-76ce-5405-6cda-45c6fd2bfcb3}</Project>
+      <Name>VoiceSDK.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Samples.csproj">
+      <Project>{f9df4b2b-ddc6-ca82-5fed-feffa29235f6}</Project>
+      <Name>Meta.WitAi.TTS.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.csproj">
+      <Project>{577152de-b3ce-b165-27cd-6a839599ffe4}</Project>
+      <Name>Oculus.VR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.WebGL.csproj">
+      <Project>{9e641847-81e9-0d9e-9647-a42acf910367}</Project>
+      <Name>Meta.VoiceSDK.Mic.WebGL</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Utils.Editor.csproj">
+      <Project>{d580048e-0968-6f48-6605-108964982de6}</Project>
+      <Name>Oculus.AudioManager.Utils.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.Editor.csproj">
+      <Project>{61011370-8a77-46f3-0845-59bad2845be4}</Project>
+      <Name>Oculus.Platform.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR.csproj">
+      <Project>{fff4256c-5102-2fe3-a7f5-108998668377}</Project>
+      <Name>SteamVR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.Editor.csproj">
+      <Project>{16586511-44b6-3726-991a-fde73814247d}</Project>
+      <Name>Oculus.LipSync.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.csproj">
+      <Project>{deea8246-ea8b-4f5d-c19e-28a75f98414e}</Project>
+      <Name>Oculus.Interaction.OVR</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
+      <Project>{2abf45c0-969b-3aa3-56ca-567a8f90048a}</Project>
+      <Name>SteamVR_Windows_EditorHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Telemetry.csproj">
+      <Project>{a70e8b5f-227a-f8bc-23f7-fc3d09d40bdd}</Project>
+      <Name>VoiceSDK.Telemetry</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.csproj">
+      <Project>{e9329ec2-f7e1-8342-285e-365ce623c4f3}</Project>
+      <Name>Oculus.AudioManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.VSDKHub.Editor.csproj">
+      <Project>{13bb3831-b23f-1196-7062-e3fa4f58fb63}</Project>
+      <Name>Meta.Voice.VSDKHub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.csproj">
+      <Project>{ed13deb4-1e13-a3fa-d271-a45009c2e0d2}</Project>
+      <Name>Oculus.Spatializer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
+      <Project>{974e5226-c366-7eec-d05d-35e9bbc04cac}</Project>
+      <Name>Meta.Voice.Hub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.csproj">
+      <Project>{20e105a4-ef8d-a13c-efcd-dace6e6ecba3}</Project>
+      <Name>Meta.WitAi.TTS</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.TTSVoices.csproj">
+      <Project>{76c27578-4f91-7111-45b5-648c721a640e}</Project>
+      <Name>Meta.Voice.Samples.TTSVoices</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.csproj">
+      <Project>{014f0481-16b0-e91f-2761-9247fb2bf218}</Project>
+      <Name>Meta.WitAi</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.InterfaceSupport.csproj">
+      <Project>{59292cf4-1f81-4eaf-78d2-97f3c65d7cae}</Project>
+      <Name>Oculus.Interaction.InterfaceSupport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.Editor.csproj">
+      <Project>{eccf831e-71eb-5eb5-d9af-ab016083256f}</Project>
+      <Name>Facebook.Wit.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.Samples.csproj">
+      <Project>{632d05e8-9e6f-671c-1e4c-13e63a605241}</Project>
+      <Name>Oculus.Interaction.OVR.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.BuiltInTimer.csproj">
+      <Project>{89dee839-be67-db1e-0c0d-5b0ef6cbe440}</Project>
+      <Name>Meta.Voice.Samples.BuiltInTimer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.csproj">
+      <Project>{0c4ae952-a094-2e69-e4ad-0668f332b8e4}</Project>
+      <Name>Oculus.Platform</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Runtime.csproj">
+      <Project>{32c42ff7-397e-d725-7daa-8564dee7c454}</Project>
+      <Name>VoiceSDK.Dictation.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.csproj">
+      <Project>{0264c21c-ecfa-e7c7-eade-0cc2b9b3180b}</Project>
+      <Name>Oculus.LipSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Dictation.csproj">
+      <Project>{5b57ac08-3e08-52d6-d8b4-ec5af4b70f35}</Project>
+      <Name>Meta.Voice.Samples.Dictation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.csproj">
+      <Project>{f2533093-3d77-31be-49a3-79aae4b1ca19}</Project>
+      <Name>Meta.WitAi.Conduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Editor.csproj">
+      <Project>{15c4ca58-c373-2063-0a4f-b32c8ec53701}</Project>
+      <Name>VoiceSDK.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.Editor.csproj">
+      <Project>{46f94af5-7ccb-4144-6725-197a2582e7e5}</Project>
+      <Name>Oculus.Spatializer.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Editor.csproj">
+      <Project>{6a52dc5f-98b4-c63a-0a23-c2084a38c1db}</Project>
+      <Name>Meta.WitAi.TTS.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Editor.csproj">
+      <Project>{c75341ec-cf6d-55d0-4732-426cd414d1e7}</Project>
+      <Name>Oculus.Interaction.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
+      <Project>{9f63a1d4-06ff-8049-42f8-3ad8d0b631dd}</Project>
+      <Name>AssistantCoreSDKRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.LightTraits.csproj">
+      <Project>{1cc35252-8dce-da72-3ffe-1c2db3c35c0d}</Project>
+      <Name>Meta.Voice.Samples.LightTraits</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.XR.BuildingBlocks.csproj">
+      <Project>{6f346701-e495-d413-8195-245d26ba3c5c}</Project>
+      <Name>Meta.XR.BuildingBlocks</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Input_Editor.csproj">
+      <Project>{02969dec-7007-b4db-2579-2e3a66126f4d}</Project>
+      <Name>SteamVR_Input_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Shapes.csproj">
+      <Project>{e8e0272b-36f4-49e1-62b5-a369d2152f8e}</Project>
+      <Name>Meta.Voice.Samples.Shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.csproj">
+      <Project>{1394bcc6-252f-af25-06a1-b55091c33b78}</Project>
+      <Name>Oculus.Interaction</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Editor.csproj">
+      <Project>{a52fd58a-b6d2-ce24-36f1-9ea4045b6be2}</Project>
+      <Name>SteamVR_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.ShapesConduit.csproj">
+      <Project>{b1844e33-4184-4ac1-a47f-8ac5f0be2059}</Project>
+      <Name>Meta.Voice.Samples.ShapesConduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Editor.csproj">
+      <Project>{756e08cb-72cd-7a12-2497-9ee35be20253}</Project>
+      <Name>VoiceSDK.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Editor.csproj">
+      <Project>{4a9b3d43-da86-f11d-9a6f-2d7c9829aec7}</Project>
+      <Name>Oculus.VR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
+      <Project>{b16c2aa9-5e16-a28d-8284-a81f4881b5f3}</Project>
+      <Name>Meta.VoiceSDK.Mic.Other</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Editor.csproj">
+      <Project>{0fc6e609-dfae-556c-688a-f47ed64f8619}</Project>
+      <Name>Meta.WitAi.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
+      <Project>{b608d67c-ccf2-6878-2e53-93039eb0136b}</Project>
+      <Name>Meta.WitAi.Conduit.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Common.csproj">
+      <Project>{4a5f2cb6-e9af-0fb8-661c-e351f3f3607e}</Project>
+      <Name>Meta.VoiceSDK.Mic.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.XR.BuildingBlocks.Editor.csproj">
+      <Project>{b923a992-ceb4-d204-5fe6-dc8c77e6c6d0}</Project>
+      <Name>Meta.XR.BuildingBlocks.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
+      <Project>{0367a1e5-0757-f78a-f7a4-b326d02fa5a6}</Project>
+      <Name>Oculus.AudioManager.Audio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
+      <Project>{2d35671e-18fd-7828-e1eb-d80041b36ec9}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
+      <Project>{6d97e133-17f7-d504-4ee8-ad6afc5aec41}</Project>
+      <Name>Oculus.VR.Scripts.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Samples.Editor.csproj">
+      <Project>{845a95a6-bd28-69e9-6d11-b978c53f194c}</Project>
+      <Name>Oculus.Interaction.Samples.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Runtime.csproj">
+      <Project>{ded6e2d6-4cae-ad0e-89e1-e05128008055}</Project>
+      <Name>Meta.Voice.Hub.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKEditor.csproj">
+      <Project>{cbf2c4c8-8d2a-bdbc-f739-8e483b66a7c4}</Project>
+      <Name>AssistantCoreSDKEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Chess.csproj">
+      <Project>{02eb225f-438f-e6b0-cb94-4f607747284f}</Project>
+      <Name>Meta.Voice.Samples.Chess</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
+      <Project>{b80a0789-c333-89ea-393f-0ac0152669b6}</Project>
+      <Name>Meta.WitAI.Lib.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

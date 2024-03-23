@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2022_3_4;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CROSS_PLATFORM_INPUT;UDUINO_READY;UDUINO_WIFI;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2022_3_4;UNITY_2022_3;UNITY_2022;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION;ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT;ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CROSS_PLATFORM_INPUT;MOBILE_INPUT;UDUINO_READY;UDUINO_MEGA_MESSAGE;USE_INPUT_SYSTEM_POSE_CONTROL;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -46,237 +46,421 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\RequestCaptureFlow.cs" />
      <Compile Include="Assets\Uduino\Examples\Wifi\SetAddressManual\UduinoWifiInterfaceStart.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\StartCrashlytics.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
      <Compile Include="Assets\Uduino\Scripts\UduinoManager.cs" />
      <Compile Include="Assets\Uduino\Scripts\Extra\Interface\UduinoInterface_Serial.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\FadeInOut\FadeInOut.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\GrabbableCrosshair.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\AppDeeplinkUI.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\AnalogWrite\AnalogWrite.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\ColorGrabbable.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandler.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\LerpControlledBob.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\EventSystemChecker.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\WaypointCircuit.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\SnapshotSceneManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughProjectionSurface.cs" />
      <Compile Include="Assets\Uduino\Scripts\Boards\ArduinoBoardType.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\FingerTipPokeTool.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandler.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\BrakeLight.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\HandsActiveChecker.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandlerThumbstick.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\Mudguard.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\DynamicSceneManagerHelper.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\SendCommandToArduino\SendCommandToArduino.cs" />
-     <Compile Include="Assets\BluetoothAPI\Scripts\ScanSceneManager.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MediaPlayerImage.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\SimpleMouseRotator.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\Arduino Mega\MegaReadWrite.cs" />
-     <Compile Include="Assets\Uduino\Examples\Advanced\ButtonTrigger\ButtonTrigger.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\SelectionCylinder.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCrossingController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\UI\CustomDebugUI.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\Restarter.cs" />
-     <Compile Include="Assets\Uduino\Scripts\Boards\Wifi\UduinoDevice_Wifi.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\CameraSwitch.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
      <Compile Include="Assets\Uduino\Scripts\Extra\Interface\UduinoInterface_Wifi.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\HandedInputSelector.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\LoadSave.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerNode.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonTriggerZone.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\StartScene\Scripts\StartMenu.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiSceneMenu.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Scripts\DistanceGrabberSample.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCar.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiDeviceInspector.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandlerTouch.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\RayToolView.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\BoneCapsuleTriggerLogic.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Interactable.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\OverlayPassthrough.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\CharacterCapsule.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorHelpers.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\Flashlight.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransition.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\SceneManagerHelper.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandler360.cs" />
+     <Compile Include="Assets\Uduino\Scripts\Boards\Wifi\UduinoConnection_Wifi.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\SceneSettings.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabber.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\Events\UduinoEventsReceiver.cs" />
+     <Compile Include="Assets\Uduino\Scripts\Boards\DesktopSerial\UduinoConnection_DesktopSerial.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\Spawnable.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\PassthroughPlayInEditor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableToolView.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabbable.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableToolsCreator.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
+     <Compile Include="Assets\Uduino\Examples\Advanced\EncoderLibrary\EncoderLibrary.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\SimpleCapsuleWithStickMovement.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\CowController.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Haptics\LocalizedHaptics.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\EnableUnpremultipliedAlpha.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SceneSampler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerPhysical.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\FOVKick.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\PrefabSceneManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\GrabObject.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\PauseOnInputLoss.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\StylusTip\StylusTip.cs" />
+     <Compile Include="Assets\BluetoothAPI\Scripts\SphereContRot.cs" />
+     <Compile Include="Assets\Uduino\Examples\Advanced\BoardType\ChangeBoardType.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\AnalogRead\AnalogRead.cs" />
+     <Compile Include="Assets\Uduino\Scripts\Extra\UduinoDebugCanvas.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\DebugUIBuilder.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiBoolInspector.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\BouncingBallMgr.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\HandPose.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
+     <Compile Include="Assets\Uduino\Scripts\Extra\Interface\UduinoInterface.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\SimpleResizer\SimpleResizer.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorUIManager.cs" />
+     <Compile Include="Assets\Escape(Game Kit)\Scripts\Menu.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\VectorUtil.cs" />
+     <Compile Include="Assets\BluetoothAPI\Scripts\manager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughSurface.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
+     <Compile Include="Assets\Uduino\Examples\Advanced\ServoOptimized\ServoOptimized.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\LaserPointer.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiAxis1dInspector.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableTool.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\MyCustomSceneModelLoader.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\FlashlightController.cs" />
+     <Compile Include="Assets\BluetoothAPI\Scripts\BTManager.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportSupport.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\BrushController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\ButtonDownListener.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\RayTool.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
+     <Compile Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards\MultipleWifiBoards.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrackSegment.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\SimpleUduino.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarAIControl.cs" />
+     <Compile Include="Assets\Uduino\Examples\Wifi\Basic\UduinoWifi_ReadWrite.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\Utils\Pose.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\BlinkLed\BlinkLed.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MoviePlayerSample.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\PanelHMDFollower.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\Servo\Servo.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorSpawner.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\AutoCam.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\Anchor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\PinchStateModule.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorSession.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportDestination.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughBrush.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\FadeInOut\FadeInOut.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\Uduino\Examples\Basic\AnalogWrite\AnalogWrite.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimVisualLaser.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainButtonVisualController.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\VolumeAndPlaneSwitcher.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\HandMeshMask.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\SetMeshBarycentricCoordinates.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\SampleUI.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandlerLaser.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionTeleport.cs" />
+     <Compile Include="Assets\BluetoothAPI\Scripts\ScanSceneManager.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
+     <Compile Include="Assets\Uduino\Examples\Advanced\ButtonTrigger\ButtonTrigger.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\ControllerBoxController.cs" />
+     <Compile Include="Assets\Uduino\Scripts\Boards\Wifi\UduinoDevice_Wifi.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\AugmentedObject.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
+     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableToolsInputRouter.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SPPquad.cs" />
      <Compile Include="Assets\Uduino\Scripts\Boards\UduinoConnection.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\ObjectResetter.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\TouchControllers\TouchController.cs" />
      <Compile Include="Assets\Uduino\Examples\Basic\DigitalReadButton\DigitalReadButton.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
      <Compile Include="Assets\Uduino\Scripts\Boards\DesktopSerial\UduinoDevice_DesktopSerial.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\LoadScene.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\Bundle\Bundle.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandlerHMD.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiVectorInspector.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\CurveControlledBob.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\GrabManager.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\CaptueCamera.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\DebugUI\DebugUISample.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionBlink.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\HandMeshUI.cs" />
      <Compile Include="Assets\BluetoothAPI\Scripts\ScanScene2.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\SmoothFollow.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\HandsManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionInstant.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\BasicSceneManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager\DynamicSceneManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCarBase.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Scripts\OVROverlayCanvas.cs" />
      <Compile Include="Assets\Uduino\Scripts\Boards\UduinoPin.cs" />
-     <Compile Include="Assets\Uduino\Scripts\Boards\Wifi\UduinoConnection_Wifi.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\Events\UduinoEventsReceiver.cs" />
-     <Compile Include="Assets\Uduino\Scripts\Boards\DesktopSerial\UduinoConnection_DesktopSerial.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughStyler.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\FurnitureSpawner.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\NativeVideoPlayer.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\LoadButt.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\AlphaButtonClickMask.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\Hand.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAudio.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
-     <Compile Include="Assets\Uduino\Examples\Advanced\EncoderLibrary\EncoderLibrary.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\PivotBasedCameraRig.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\WindmillBladesController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MoviePlayerSampleControls.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\FootStepSound.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui\UiAxis2dInspector.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Uduino\Scripts\Extra\SimpleJSON.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandlerHMD.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\LevelReset.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarSelfRighting.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\FingerTipPokeToolView.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\CharacterCameraConstraint.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\SpatialAnchorLoader.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SelectivePassthroughExperience.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\ForcedReset.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\FOVKick.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
      <Compile Include="Assets\Uduino\Scripts\Extra\UduinoDebug.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\SimpleResizer\SimpleResizable.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonController.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\LedIntensity\SendLedIntensity.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\OneLineRead\OneLineRead.cs" />
-     <Compile Include="Assets\BluetoothAPI\Scripts\SphereContRot.cs" />
-     <Compile Include="Assets\Uduino\Examples\Advanced\BoardType\ChangeBoardType.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\AnalogRead\AnalogRead.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerNavMesh.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\LocomotionSampleSupport.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\MultipleArduino\MultipleArduino.cs" />
-     <Compile Include="Assets\Uduino\Scripts\Extra\UduinoDebugCanvas.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\DragRigidbody.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
      <Compile Include="Assets\BluetoothAPI\Scripts\BLEServicesManager.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\BouncingBallLogic.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\MultipleArduino\MultipleArduino2.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\RegularPost.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\FPSCounter.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
-     <Compile Include="Assets\Uduino\Scripts\Extra\Interface\UduinoInterface.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Scripts\OVROverlaySample.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableRegistry.cs" />
      <Compile Include="Assets\BluetoothAPI\Scripts\Demo.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\Uduino\Examples\Basic\DigitalReadButton\MultipleButtons\MultipleButtons.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
      <Compile Include="Assets\Uduino\Examples\Advanced\ReadSensor\ReadSensor.cs" />
-     <Compile Include="Assets\Escape(Game Kit)\Scripts\Menu.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ColliderZone.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionWarp.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\WindmillController.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\AnalyticsUI.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\EventTrig.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
-     <Compile Include="Assets\BluetoothAPI\Scripts\manager.cs" />
      <Compile Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Bluetooth\UduinoInterface_Bluetooth.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\ActivateTrigger.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
-     <Compile Include="Assets\Uduino\Examples\Advanced\ServoOptimized\ServoOptimized.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainTrack.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionController.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\FollowTarget.cs" />
-     <Compile Include="Assets\BluetoothAPI\Scripts\BTManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainLocomotive.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\SavedTriggers.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
-     <Compile Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards\MultipleWifiBoards.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\SimpleUduino.cs" />
-     <Compile Include="Assets\Uduino\Examples\Wifi\Basic\UduinoWifi_ReadWrite.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts\CarAIControl.cs" />
      <Compile Include="Assets\Escape(Game Kit)\Scripts\Door.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\BlinkLed\BlinkLed.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\ObjectManipulator.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\CameraRefocus.cs" />
-     <Compile Include="Assets\Uduino\Examples\Basic\Servo\Servo.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts\AutoCam.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\SpatialAnchorSession.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandlerParabolic.cs" />
      <Compile Include="Assets\Uduino\Examples\Basic\ReadWrite\ReadWrite.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportPoint.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Uduino\Scripts\Boards\UduinoDevice.cs" />
-     <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
      <Compile Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Escape(Game Kit)\Models\doc box\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Vent\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood plank\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Navmesh" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <Folder Include="Assets\Uduino\Examples\Advanced\SendCommandToArduino\ReceiveCommand" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\WireframeShader.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\ladder\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Shelf\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\Hidden.shader" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\Dictation\Scripts\Runtime" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\Wall.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Prefabs\GrabOffsetsAndPoses" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\fire_extinguisher\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\StartScene\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pipes\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Vent" />
      <Folder Include="Assets\Escape(Game Kit)\Models\File books\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Desktop Materials\LOD1" />
+     <Folder Include="Assets\Oculus\Voice\Samples\TTSVoices\Audio" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\File books\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\TrainScene" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\java" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bin bag" />
      <Folder Include="Assets\Escape(Game Kit)\Models\doc box\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Palm\Palm_Desktop Materials\LOD2" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\ButtonGlow.shader" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Samples\Dictation" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Audio" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Phone" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet paper\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Shaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pod" />
+     <Folder Include="Assets\Oculus\Voice\Lib" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cloth" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Corner wall\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Audio" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Prefabs\Rain\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Tv\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\fire_extinguisher\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Shaders" />
      <Folder Include="Assets\Uduino\Examples\Basic\Servo" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Bluetooth" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sleepbag" />
+     <Folder Include="Assets\Oculus\Voice\Samples\LightTraits" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Materials" />
      <Folder Include="Assets\Uduino\Examples\Basic\AnalogWrite" />
      <Folder Include="Assets\Escape(Game Kit)\Images" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Prefabs\GlobalMesh" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Boiler and pipes" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Tv" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Hub\Pages\Images" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Prefabs\StylusTip" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Prefabs\Rain" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\SelectivePassthrough.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Exit Door\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Locker box\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Film\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Scripts" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Audio" />
+     <Folder Include="Assets\Oculus\Voice\Samples\LightTraits\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Module sets\textures" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\SelectivePassthroughSoft.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightCookies\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DebugUI" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\TTS\Documentation" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood box\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Animation" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\OverwriteAlpha.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet paper\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Walls\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\jalousie" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Textures" />
+     <None Include="Assets\Oculus\Interaction\package.json" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Samples\TTSVoices" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface" />
+     <Folder Include="Assets\Oculus\Voice\Samples" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\CrosshairZCheat.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Prefabs" />
      <Folder Include="Assets\Uduino\Examples\Basic\FadeInOut" />
      <Folder Include="Assets\Uduino\Examples\Wifi\SetAddressManual" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pipes\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\ladder" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal shvel" />
@@ -286,27 +470,51 @@
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Materials" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\NewTouchControllers" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Models" />
+     <Folder Include="Assets\XR" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\GradientSkybox.shader" />
+     <Folder Include="Assets\Oculus\Voice\Samples\TTSVoices\Prefabs" />
+     <Folder Include="Assets\Oculus\Voice\Samples\TTSVoices\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal plates\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water" />
+     <Folder Include="Assets\XRI" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lustre" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sink\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\White room\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\White room" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Prefabs" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\PassthroughLine.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Prefabs\FurniturePrefabs" />
      <Folder Include="Assets\Uduino\Examples\Wifi\Basic" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Textures" />
      <Folder Include="Assets\Uduino\Examples\Advanced\MultipleArduino\FirstArduino" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\BackgroundColor.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Animations" />
+     <Folder Include="Assets\Oculus\Voice\Plugins" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\java\com\oculus" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Module sets\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Ceiling\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\Utils" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Corner wall" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Prefabs\GenericPrefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\UI" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Models" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Conifer" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\FatFingers.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Materials\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\switches\Materials" />
      <Folder Include="Assets\Uduino\Examples\Advanced\EncoderLibrary" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bed\Textures" />
@@ -317,12 +525,17 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\Panel2" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Books\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\CustomSceneManager" />
      <Folder Include="Assets\Uduino\Examples\Advanced\BoardType" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Ceiling" />
      <Folder Include="Assets\Standard_Assets\Standard Assets" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Film" />
      <Folder Include="Assets\Escape(Game Kit)\Scenes" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal plates\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Prefabs\OutlineItems" />
+     <Folder Include="Assets\Oculus\Voice\Features\Hub" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Models" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
@@ -332,7 +545,9 @@
      <Folder Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards\Arduino" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Icons" />
      <Folder Include="Assets\Uduino\Examples\Advanced\LedIntensity" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\Dictation\Scripts" />
      <Folder Include="Assets\Uduino\Examples\Basic" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Frame\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Small table 1\Textures" />
@@ -340,15 +555,25 @@
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Desktop Materials\LOD2" />
      <Folder Include="Assets\Escape(Game Kit)\Fonts" />
      <Folder Include="Assets\Uduino\Examples\Basic\DigitalReadButton\MultipleButtons" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Hub\Pages\WhatsNew" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\StylusTip" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sleepbag\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Phone\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Firebase\google-services.json" />
      <Folder Include="Assets\Escape(Game Kit)\Models\wheelchair" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders" />
+     <Folder Include="Assets\Resources" />
      <Folder Include="Assets\Escape(Game Kit)\Models\panel\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Sprites" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\InvisibleOccluder.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Mobile Materials\LOD0" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainPropsShader.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scenes" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Mobile Materials\LOD1" />
+     <Folder Include="Assets\Oculus\Voice\Documentation" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\ToyCubeWithOutline.shader" />
      <None Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Scenes" />
@@ -357,20 +582,27 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\wheelchair\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\gater\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\gas\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Core\Locomotion\Materials\ColumnGlow.shader" />
+     <Folder Include="Assets\SteamVR_Resources" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Shelf" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp3\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Ceiling\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Film\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Utility" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal plates" />
      <Folder Include="Assets\Escape(Game Kit)\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading\Textures" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+     <Folder Include="Assets\StreamingAssets\SteamVR" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\office chair\Materials" />
+     <Folder Include="Assets\XR\Loaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp 5" />
      <Folder Include="Assets\Uduino\Scripts\Extra" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Module sets" />
@@ -380,14 +612,20 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\Exit Door\Materials" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
      <None Include="Assets\Uduino\Scripts\Boards\Wifi\ReadMe_Uduino_Wifi.txt" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\LiveUnderstanding" />
+     <Folder Include="Assets\Oculus\Voice\Lib\PlatformCompatibility\Plugins" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Shaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sink" />
      <Folder Include="Assets\BluetoothAPI\Plugins\Android" />
      <Folder Include="Assets\Escape(Game Kit)\Models\help desk\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sink\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Samples\BuiltInTimer" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bed\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scenes" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Small table 1" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal shvel\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\office chair\Textures" />
@@ -396,8 +634,12 @@
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Shaders" />
      <Folder Include="Assets\Uduino\Examples\Advanced\ServoOptimized" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\TTS\Scripts" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Hub\Pages" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Ui" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp2\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Projector2\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp1\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Chair" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Desktop Materials" />
@@ -405,9 +647,11 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\gas\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\small table\Materials" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\TTSVoices" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\switches\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cloth\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Big chair\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood box\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Book shelf\Textures" />
@@ -418,66 +662,100 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\locker shelf" />
      <Folder Include="Assets\BluetoothAPI\Scripts" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ImageEffects" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Lib\PlatformCompatibility" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bed" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cabins\Materials" />
      <Folder Include="Assets\Uduino\Examples\Basic\AnalogRead" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink" />
      <Folder Include="Assets\Uduino\Examples\Advanced\MultipleArduino\SecondArduino" />
      <Folder Include="Assets\Uduino\Examples\Basic\DigitalReadButton" />
      <Folder Include="Assets\Escape(Game Kit)\Documentations" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Meshs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Palm\Palm_Desktop Materials\LOD1" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\LightTraits" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table 1\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Grass\Textures" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <Folder Include="Assets\Oculus\Voice\Samples\ShapesConduit" />
      <Folder Include="Assets\Escape(Game Kit)\Models\OilLamp" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts" />
+     <Folder Include="Assets\Oculus\Voice\Samples\Chess\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Locker box" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion" />
      <None Include="Assets\Escape(Game Kit)\Shader\Regular Post Effect (Colors)\Regular Post.shader" />
      <Folder Include="Assets\Uduino\Examples\Advanced" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\skybox" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Walls" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Radiator\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Samples\Shapes" />
      <Folder Include="Assets\Escape(Game Kit)\Models\hospital gurney\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Metal Bucket" />
+     <None Include="Assets\Oculus\SampleFramework\Core\Video\Shaders\Multiview Stereo.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DistanceGrab" />
      <Folder Include="Assets\Escape(Game Kit)\Models\small chair\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Scripts" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Shaders" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\Audio360" />
+     <None Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat\OFL.txt" />
+     <Folder Include="Assets\Oculus\Voice\Resources" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Electric Box" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor panel\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\Haptics" />
      <Folder Include="Assets\Uduino\Arduino" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Audio" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders\UI Default Correct.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bin bag\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Scripts" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Shaders" />
+     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_01.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lights" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <Folder Include="Assets\Escape(Game Kit)\Models\desk\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\jalousie\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Sprites" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\PhysicsMaterials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Book shelf\Textures\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Chair\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Samples" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Skyboxes" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Planks" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp3" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Menu\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\OilLamp\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Frame" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp4" />
      <Folder Include="Assets\BluetoothAPI\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\Dictation" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\GlassRefraction\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cashbox\Materials" />
@@ -485,48 +763,76 @@
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp1" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Cameras\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lights\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\garbage" />
+     <Folder Include="Assets\Oculus\Interaction\OVRIntegration" />
      <Folder Include="Assets\Escape(Game Kit)\Models\panel" />
      <Folder Include="Assets\Escape(Game Kit)\Models\desk\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Camera\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Projector2" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scenes" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Shaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\stairs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Gradle" />
      <Folder Include="Assets\Escape(Game Kit)\Models\gas" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\Animations" />
      <Folder Include="Assets\BluetoothAPI\Plugins\iOS\BluetoothUnityAPI\Source" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightFlares" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Animations" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Camera" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Boiler and pipes\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Models" />
      <None Include="Assets\Uduino\ReadMe.txt" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\GlassRefraction\Shaders" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\ShapesConduit" />
+     <Folder Include="Assets\XR\Settings" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Animator" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+     <Folder Include="Assets\Oculus\Voice\Features\Telemetry\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\desk" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Hub\Pages\WhatsNew\Images" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\stairs\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Samples\Dictation\Scenes" />
+     <None Include="Assets\Oculus\Voice\Lib\Wit.ai\Resources\witai_texts_en-us.json" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table 1\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\sleepbag\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table 1" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <Folder Include="Assets\Uduino" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightCookies" />
+     <Folder Include="Assets\Oculus\Voice\Features\Hub\Scripts" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Electric Box\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Lib\PlatformCompatibility\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Electric Box\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Features" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor panel" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Materials" />
+     <Folder Include="Assets\Samples\XR Interaction Toolkit\2.4.3" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Frame\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Panel2\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Locomotion\Materials" />
      <Folder Include="Assets\Uduino\Examples\Basic\Events" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa" />
      <None Include="Assets\BluetoothAPI\changelogs.txt" />
+     <Folder Include="Assets\Samples\XR Interaction Toolkit" />
+     <Folder Include="Assets\Oculus\Voice\Features\Telemetry\Plugins" />
      <Folder Include="Assets\Escape(Game Kit)\Models\garbage\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cashbox" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Light Bra\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Exit Door" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Bluetooth\Resources" />
      <Folder Include="Assets\Uduino\Scripts\Boards\Wifi" />
@@ -539,78 +845,112 @@
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightFlares\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Textures\ControllerBoxTextures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\fire_extinguisher" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pod\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Phone\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\PC\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp4\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cardbord box\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa 1" />
      <Folder Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Vent\Textures" />
+     <Folder Include="Assets\scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Truck\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\help desk\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp2\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Chair\Materials" />
      <Folder Include="Assets\Uduino\Examples\Advanced\MultipleArduino" />
+     <None Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Shaders\OculusSampleAlphaHandOutline.shader" />
+     <Folder Include="Assets\Oculus\Voice\Samples\ShapesConduit\Materials" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa 1\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\jalousie\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Projector2\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Animations" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features" />
      <Folder Include="Assets\Uduino\Examples\Wifi" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Materials" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cloth\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\small table" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cabins" />
+     <Folder Include="Assets\Oculus\Voice\Samples\Chess" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Models" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Desktop Materials\LOD0" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Prefabs" />
      <Folder Include="Assets\Uduino\Scripts" />
+     <Folder Include="Assets\XRI\Settings\Resources" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Planks\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\PC" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Panel2\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Fonts" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\BuiltInTimer" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Documentation" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Books" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood plank" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Prefabs" />
      <Folder Include="Assets\BluetoothAPI\Scenes" />
      <Folder Include="Assets\Escape(Game Kit)\Models\hospital gurney" />
      <Folder Include="Assets\Escape(Game Kit)\Models\ladder\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\blinds\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Books\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Palm\Palm_Desktop Materials" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub" />
      <None Include="Assets\Escape(Game Kit)\Shader\Lamp Light RGB\Light-RGB.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cardbord box\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Resources" />
      <Folder Include="Assets\Escape(Game Kit)\Models\blinds" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood box" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp 5\Textures" />
+     <Folder Include="Assets\StreamingAssets" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp1\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Scripts" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Audio" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Camera\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\wheelchair\Materials" />
      <Folder Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards\Arduino\SecondBoard" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Conifer\Conifer_Desktop Materials" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Documentation\Samples" />
      <Folder Include="Assets\Escape(Game Kit)\Models\locker shelf\Textures" />
+     <Folder Include="Assets\Oculus\Voice\Samples\Chess\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Tv\Textures" />
      <Folder Include="Assets\Uduino\Examples" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Grass\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\metal shvel\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Documentation" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\GlowEffect.shader" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Wifi\Resources" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\Chess" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\TerrainAssets\BillboardTextures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Walls\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Locomotion\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\panel\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Small table 1\Materials" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ImageEffects\Readme.txt" />
      <Folder Include="Assets\Escape(Game Kit)\Models\small chair" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Prefabs" />
      <Folder Include="Assets\Escape(Game Kit)\Shader\Lamp Light RGB" />
      <Folder Include="Assets\Escape(Game Kit)\Models\hospital gurney\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\GlassRefraction\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Animation" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Models" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Foto Frame\Materials" />
      <Folder Include="Assets\Uduino\Examples\Advanced\OneLineRead" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Frame" />
@@ -618,20 +958,29 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\Grass" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Shaders" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Aircraft\Scripts" />
+     <Folder Include="Assets\SteamVR_Resources\Resources" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Mobile Materials\LOD2" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cabins\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\GlassRefraction" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water4\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI\Prefabs" />
      <Folder Include="Assets\Uduino\Scripts\Boards" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Big chair\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightFlares\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\AudioMixers" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Skyboxes\Sky_01" />
+     <Folder Include="Assets\Samples" />
+     <Folder Include="Assets\Oculus\Voice" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Light Bra" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Animations" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlay" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Book shelf\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Samples\BuiltInTimer\Audio" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Scripts" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\2D\PhysicsMaterials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp4\Materials" />
@@ -639,75 +988,127 @@
      <Folder Include="Assets\Uduino\Examples\Advanced\ReadSensor" />
      <Folder Include="Assets\Uduino\Examples\Advanced\Arduino Mega" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainSmokeShader.shader" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\TTS" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wiers" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)" />
      <Folder Include="Assets\Escape(Game Kit)\Shader\Regular Post Effect (Colors)" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Palm" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\java\com" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\Projectors\Shaders" />
+     <None Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\java\com\oculus\videoplayer\NativeVideoPlayer.java" />
      <Folder Include="Assets\Escape(Game Kit)\Models\PC\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Mesh" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders\UI Prerendered Opaque.shader" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts\SimpleResizer" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\FirstPersonCharacter\Audio" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Conifer\Conifer_Desktop Materials\LOD1" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Truck\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Metal Bucket\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\Audio360\NOTICE.txt" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Firebase" />
      <None Include="Assets\BluetoothAPI\help.txt" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Palm\Palm_Desktop Materials\LOD0" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\PassthroughShadow.shader" />
      <Folder Include="Assets\Uduino\Examples\Advanced\SendCommandToArduino" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Fonts" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources\Wifi" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Broadleaf\Broadleaf_Mobile Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\RollerBall\Prefabs" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Prefabs" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Shaders\TriPlanarWorld.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\small table\Textures" />
      <Folder Include="Assets\Uduino\Examples\Basic\ReadWrite" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor" />
      <Folder Include="Assets\BluetoothAPI\Plugins\iOS\BluetoothUnityAPI" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <Folder Include="Assets\Uduino\Examples\Advanced\ButtonTrigger" />
+     <Folder Include="Assets\Oculus\Interaction" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\ToonShading\Shaders" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Locomotion" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Table\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Features\TTS\Documentation\Images" />
      <Folder Include="Assets\Uduino\Examples\Wifi\MultipleWifiBoards\Arduino\FirstBoard" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
      <Folder Include="Assets\Uduino\Examples\Basic\BlinkLed" />
      <Folder Include="Assets\Escape(Game Kit)\Models\gater\Materials" />
      <Folder Include="Assets\BluetoothAPI\Plugins\iOS" />
      <Folder Include="Assets\Escape(Game Kit)\Models\switches" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Materials" />
      <None Include="Assets\Escape(Game Kit)\Documentations\README.txt" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Sofa 1\Materials" />
+     <None Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\Audio360\ThirdPartyNotices.txt" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Textures" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\SceneObjectPreview.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Shelf\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\gater" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Book shelf" />
      <Folder Include="Assets\Uduino\Scripts\Extra\Interface\Resources" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Mirror" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders\UI Prerendered.shader" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Big chair" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Locker box\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Bin bag\Textures" />
+     <None Include="Assets\Oculus\Voice\Resources\voicesdk_texts_en-us.json" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Scripts" />
      <Folder Include="Assets\Escape(Game Kit)\Models\White room\Textures" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\PhysicsMaterials" />
+     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Materials\Hands_Transparent.shader" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Conifer\Conifer_Desktop Materials\LOD0" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Effects\LightFlares\Flares" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\TerrainAssets" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\StylizedOcclusions.shader" />
+     <Folder Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Conduit" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Samples\Dictation\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp2" />
+     <Folder Include="Assets\Oculus\Voice\Samples\Shapes\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pod\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\StartScene" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Characters\ThirdPersonCharacter\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp3\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\DebugUI\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\stairs\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation\Plugins" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Flor panel\Materials" />
+     <Folder Include="Assets\Oculus\Voice\Features\VoiceHub\Hub" />
      <None Include="Assets\BluetoothAPI\Plugins\Android\AndroidManifest.xml" />
+     <Folder Include="Assets\XRI\Settings" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Prefabs" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Firebase" />
+     <Folder Include="Assets\Oculus\Voice\Features\Dictation" />
+     <Folder Include="Assets\Oculus\Voice\Samples\LiveUnderstanding\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Truck" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\Water\Water\Models" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Radiator\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Pipes" />
+     <Folder Include="Assets\Oculus\Voice\Samples\LiveUnderstanding" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lamp 5\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Sounds" />
+     <Folder Include="Assets\Oculus\Voice\Features\Telemetry" />
+     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_02.shader" />
+     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\GlassMask.shader" />
      <Folder Include="Assets\Uduino\Examples\Advanced\Bundle" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Radiator" />
+     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Materials\Hands_DiffBump.shader" />
+     <Folder Include="Assets\Oculus" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\File books" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Prefabs\Ui" />
+     <Folder Include="Assets\Oculus\Voice\Documentation\Samples\Shapes" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\Scripts" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Toilet paper" />
@@ -716,10 +1117,14 @@
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\TerrainAssets\SurfaceTextures" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cardbord box" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Metal Bucket\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\StartScene\Scripts" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Skyboxes\Sky_02" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\SampleScenes\Models\Materials" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Environment\SpeedTree\Conifer\Conifer_Desktop Materials\LOD2" />
      <Folder Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Prototyping\Shaders" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Boiler and pipes\Textures" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\CustomHands" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Lustre\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\garbage\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Wood plank\Materials" />
@@ -730,9 +1135,16 @@
      <Folder Include="Assets\Escape(Game Kit)\Models\Frame\Textures" />
      <None Include="Assets\Standard_Assets\Standard Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <Folder Include="Assets\BluetoothAPI\Plugins" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas" />
      <Folder Include="Assets\Escape(Game Kit)\Textures\Materials" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\java\com\oculus\videoplayer" />
+     <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Prefabs" />
+     <Folder Include="Assets\Oculus\Voice\Samples\BuiltInTimer\Materials" />
      <Folder Include="Assets\Escape(Game Kit)\Models\Cashbox\Textures" />
      <Folder Include="Assets\Escape(Game Kit)\Models" />
+     <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Shaders" />
+     <None Include="Assets\Oculus\SampleFramework\license.txt" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -759,12 +1171,6 @@
      </Reference>
      <Reference Include="UnityEngine.ClothModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterInputModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterRendererModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.ContentLoadModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
@@ -925,9 +1331,6 @@
      <Reference Include="UnityEngine.VideoModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.VirtualTexturingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEngine.WindModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
      </Reference>
@@ -990,6 +1393,9 @@
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
      <HintPath>D:\GitHub\320\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Valve.Newtonsoft.Json">
+     <HintPath>D:\GitHub\320\Assets\SteamVR\Input\Plugins\JSON.NET\Valve.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -1375,20 +1781,26 @@
      <Reference Include="System.Xml.XPath.XDocument">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <Reference Include="Unity.XR.Management">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.CoreUtils">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
@@ -1396,14 +1808,32 @@
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <Reference Include="Unity.XR.Management.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.CoreUtils.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.CoreUtils.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Oculus.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Interaction.Toolkit">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.EditorCoroutines.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
@@ -1411,44 +1841,300 @@
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="UnityEditor.SpatialTracking">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.VisualScripting.Core">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <Reference Include="UnityEngine.SpatialTracking">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.InputSystem">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.InputSystem.ForUI">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Oculus">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Mathematics">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{90e8e001-bcab-24f8-fc54-41934a940e0f}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
+      <Project>{b12324d1-0195-c0f7-9fcc-5a277876f9c9}</Project>
+      <Name>Oculus.Interaction.OVR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.csproj">
+      <Project>{d55fc2c3-def2-afcb-7f4a-6851d842b4c2}</Project>
+      <Name>Facebook.Wit.Dictation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.LiveUnderstanding.csproj">
+      <Project>{f1d1eb1b-2296-d19d-304d-2bd88835167b}</Project>
+      <Name>Meta.Voice.Samples.LiveUnderstanding</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Lib.csproj">
+      <Project>{0dd7c1e9-fdab-e0e6-f4e3-bc8ffda53774}</Project>
+      <Name>Meta.WitAi.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Runtime.csproj">
+      <Project>{293e7d9a-76ce-5405-6cda-45c6fd2bfcb3}</Project>
+      <Name>VoiceSDK.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Samples.csproj">
+      <Project>{f9df4b2b-ddc6-ca82-5fed-feffa29235f6}</Project>
+      <Name>Meta.WitAi.TTS.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.csproj">
+      <Project>{577152de-b3ce-b165-27cd-6a839599ffe4}</Project>
+      <Name>Oculus.VR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.WebGL.csproj">
+      <Project>{9e641847-81e9-0d9e-9647-a42acf910367}</Project>
+      <Name>Meta.VoiceSDK.Mic.WebGL</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Utils.Editor.csproj">
+      <Project>{d580048e-0968-6f48-6605-108964982de6}</Project>
+      <Name>Oculus.AudioManager.Utils.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.Editor.csproj">
+      <Project>{61011370-8a77-46f3-0845-59bad2845be4}</Project>
+      <Name>Oculus.Platform.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR.csproj">
+      <Project>{fff4256c-5102-2fe3-a7f5-108998668377}</Project>
+      <Name>SteamVR</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.Editor.csproj">
+      <Project>{16586511-44b6-3726-991a-fde73814247d}</Project>
+      <Name>Oculus.LipSync.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.csproj">
+      <Project>{deea8246-ea8b-4f5d-c19e-28a75f98414e}</Project>
+      <Name>Oculus.Interaction.OVR</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
+      <Project>{2abf45c0-969b-3aa3-56ca-567a8f90048a}</Project>
+      <Name>SteamVR_Windows_EditorHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Telemetry.csproj">
+      <Project>{a70e8b5f-227a-f8bc-23f7-fc3d09d40bdd}</Project>
+      <Name>VoiceSDK.Telemetry</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.csproj">
+      <Project>{e9329ec2-f7e1-8342-285e-365ce623c4f3}</Project>
+      <Name>Oculus.AudioManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.VSDKHub.Editor.csproj">
+      <Project>{13bb3831-b23f-1196-7062-e3fa4f58fb63}</Project>
+      <Name>Meta.Voice.VSDKHub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.csproj">
+      <Project>{ed13deb4-1e13-a3fa-d271-a45009c2e0d2}</Project>
+      <Name>Oculus.Spatializer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
+      <Project>{974e5226-c366-7eec-d05d-35e9bbc04cac}</Project>
+      <Name>Meta.Voice.Hub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.csproj">
+      <Project>{20e105a4-ef8d-a13c-efcd-dace6e6ecba3}</Project>
+      <Name>Meta.WitAi.TTS</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.TTSVoices.csproj">
+      <Project>{76c27578-4f91-7111-45b5-648c721a640e}</Project>
+      <Name>Meta.Voice.Samples.TTSVoices</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.csproj">
+      <Project>{014f0481-16b0-e91f-2761-9247fb2bf218}</Project>
+      <Name>Meta.WitAi</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.InterfaceSupport.csproj">
+      <Project>{59292cf4-1f81-4eaf-78d2-97f3c65d7cae}</Project>
+      <Name>Oculus.Interaction.InterfaceSupport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Dictation.Editor.csproj">
+      <Project>{eccf831e-71eb-5eb5-d9af-ab016083256f}</Project>
+      <Name>Facebook.Wit.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.OVR.Samples.csproj">
+      <Project>{632d05e8-9e6f-671c-1e4c-13e63a605241}</Project>
+      <Name>Oculus.Interaction.OVR.Samples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.BuiltInTimer.csproj">
+      <Project>{89dee839-be67-db1e-0c0d-5b0ef6cbe440}</Project>
+      <Name>Meta.Voice.Samples.BuiltInTimer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Platform.csproj">
+      <Project>{0c4ae952-a094-2e69-e4ad-0668f332b8e4}</Project>
+      <Name>Oculus.Platform</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Runtime.csproj">
+      <Project>{32c42ff7-397e-d725-7daa-8564dee7c454}</Project>
+      <Name>VoiceSDK.Dictation.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.csproj">
+      <Project>{0264c21c-ecfa-e7c7-eade-0cc2b9b3180b}</Project>
+      <Name>Oculus.LipSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Dictation.csproj">
+      <Project>{5b57ac08-3e08-52d6-d8b4-ec5af4b70f35}</Project>
+      <Name>Meta.Voice.Samples.Dictation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.csproj">
+      <Project>{f2533093-3d77-31be-49a3-79aae4b1ca19}</Project>
+      <Name>Meta.WitAi.Conduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Dictation.Editor.csproj">
+      <Project>{15c4ca58-c373-2063-0a4f-b32c8ec53701}</Project>
+      <Name>VoiceSDK.Dictation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.Editor.csproj">
+      <Project>{46f94af5-7ccb-4144-6725-197a2582e7e5}</Project>
+      <Name>Oculus.Spatializer.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.TTS.Editor.csproj">
+      <Project>{6a52dc5f-98b4-c63a-0a23-c2084a38c1db}</Project>
+      <Name>Meta.WitAi.TTS.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Editor.csproj">
+      <Project>{c75341ec-cf6d-55d0-4732-426cd414d1e7}</Project>
+      <Name>Oculus.Interaction.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
+      <Project>{9f63a1d4-06ff-8049-42f8-3ad8d0b631dd}</Project>
+      <Name>AssistantCoreSDKRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.LightTraits.csproj">
+      <Project>{1cc35252-8dce-da72-3ffe-1c2db3c35c0d}</Project>
+      <Name>Meta.Voice.Samples.LightTraits</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.XR.BuildingBlocks.csproj">
+      <Project>{6f346701-e495-d413-8195-245d26ba3c5c}</Project>
+      <Name>Meta.XR.BuildingBlocks</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Input_Editor.csproj">
+      <Project>{02969dec-7007-b4db-2579-2e3a66126f4d}</Project>
+      <Name>SteamVR_Input_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Shapes.csproj">
+      <Project>{e8e0272b-36f4-49e1-62b5-a369d2152f8e}</Project>
+      <Name>Meta.Voice.Samples.Shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.csproj">
+      <Project>{1394bcc6-252f-af25-06a1-b55091c33b78}</Project>
+      <Name>Oculus.Interaction</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Editor.csproj">
+      <Project>{a52fd58a-b6d2-ce24-36f1-9ea4045b6be2}</Project>
+      <Name>SteamVR_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.ShapesConduit.csproj">
+      <Project>{b1844e33-4184-4ac1-a47f-8ac5f0be2059}</Project>
+      <Name>Meta.Voice.Samples.ShapesConduit</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Editor.csproj">
+      <Project>{756e08cb-72cd-7a12-2497-9ee35be20253}</Project>
+      <Name>VoiceSDK.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Editor.csproj">
+      <Project>{4a9b3d43-da86-f11d-9a6f-2d7c9829aec7}</Project>
+      <Name>Oculus.VR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
+      <Project>{b16c2aa9-5e16-a28d-8284-a81f4881b5f3}</Project>
+      <Name>Meta.VoiceSDK.Mic.Other</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Editor.csproj">
+      <Project>{0fc6e609-dfae-556c-688a-f47ed64f8619}</Project>
+      <Name>Meta.WitAi.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
+      <Project>{b608d67c-ccf2-6878-2e53-93039eb0136b}</Project>
+      <Name>Meta.WitAi.Conduit.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.VoiceSDK.Mic.Common.csproj">
+      <Project>{4a5f2cb6-e9af-0fb8-661c-e351f3f3607e}</Project>
+      <Name>Meta.VoiceSDK.Mic.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.XR.BuildingBlocks.Editor.csproj">
+      <Project>{b923a992-ceb4-d204-5fe6-dc8c77e6c6d0}</Project>
+      <Name>Meta.XR.BuildingBlocks.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
+      <Project>{0367a1e5-0757-f78a-f7a4-b326d02fa5a6}</Project>
+      <Name>Oculus.AudioManager.Audio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
+      <Project>{2d35671e-18fd-7828-e1eb-d80041b36ec9}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
+      <Project>{6d97e133-17f7-d504-4ee8-ad6afc5aec41}</Project>
+      <Name>Oculus.VR.Scripts.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Interaction.Samples.Editor.csproj">
+      <Project>{845a95a6-bd28-69e9-6d11-b978c53f194c}</Project>
+      <Name>Oculus.Interaction.Samples.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Hub.Runtime.csproj">
+      <Project>{ded6e2d6-4cae-ad0e-89e1-e05128008055}</Project>
+      <Name>Meta.Voice.Hub.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="AssistantCoreSDKEditor.csproj">
+      <Project>{cbf2c4c8-8d2a-bdbc-f739-8e483b66a7c4}</Project>
+      <Name>AssistantCoreSDKEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.Voice.Samples.Chess.csproj">
+      <Project>{02eb225f-438f-e6b0-cb94-4f607747284f}</Project>
+      <Name>Meta.Voice.Samples.Chess</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
+      <Project>{b80a0789-c333-89ea-393f-0ac0152669b6}</Project>
+      <Name>Meta.WitAI.Lib.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
