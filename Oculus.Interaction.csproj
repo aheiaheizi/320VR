@@ -139,9 +139,9 @@
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\PoseDetection\Debug\TransformFeatureVectorDebugParentVisual.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Visuals\DebugTreeUI.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Visuals\SelectorDebugVisual.cs" />
-     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Polyline\DebugGizmos.cs" />
-     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Core\InteractorDriverGroup.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\ProximityField\BoxProximityField.cs" />
+     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Core\InteractorDriverGroup.cs" />
+     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Polyline\DebugGizmos.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Polyline\PolylineGizmos.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\PoseDetection\Debug\FingerFeatureSkeletalDebugVisual.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Input\Hands\Hand.cs" />
@@ -923,9 +923,6 @@
      <Reference Include="UnityEditor.Graphs">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEditor.Android.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEditor.WindowsStandalone.Extensions">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
@@ -961,15 +958,6 @@
      </Reference>
      <Reference Include="Valve.Newtonsoft.Json">
      <HintPath>D:\GitHub\320\Assets\SteamVR\Input\Plugins\JSON.NET\Valve.Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.Types">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.Gradle">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.GradleProject">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>

@@ -494,15 +494,6 @@
      <Reference Include="Valve.Newtonsoft.Json">
      <HintPath>D:\GitHub\320\Assets\SteamVR\Input\Plugins\JSON.NET\Valve.Newtonsoft.Json.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Android.Types">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.Gradle">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.GradleProject">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
-     </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
      </Reference>
@@ -878,14 +869,32 @@
      <Reference Include="System.Xml.XPath.XDocument">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.XR.Management">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
      </Reference>
      <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Runtime">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Hands">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Rider.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
@@ -896,11 +905,20 @@
      <Reference Include="Unity.XR.CoreUtils">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.XR.OpenXR">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
@@ -917,11 +935,17 @@
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.XR.Oculus.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.XR.Interaction.Toolkit">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
@@ -937,6 +961,9 @@
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ShaderGraph.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.SpatialTracking">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
@@ -955,6 +982,9 @@
      </Reference>
      <Reference Include="UnityEngine.SpatialTracking">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.Hands.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.Hands.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
@@ -980,6 +1010,9 @@
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.XR.OpenXR.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
@@ -992,15 +1025,17 @@
      <Reference Include="Unity.TextMeshPro.Editor">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Searcher.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
+     <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>D:\GitHub\320\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{0dd7c1e9-fdab-e0e6-f4e3-bc8ffda53774}</Project>
-      <Name>Meta.WitAi.Lib</Name>
-    </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
       <Project>{b12324d1-0195-c0f7-9fcc-5a277876f9c9}</Project>
       <Name>Oculus.Interaction.OVR.Editor</Name>
@@ -1012,6 +1047,10 @@
     <ProjectReference Include="Meta.Voice.Samples.LiveUnderstanding.csproj">
       <Project>{f1d1eb1b-2296-d19d-304d-2bd88835167b}</Project>
       <Name>Meta.Voice.Samples.LiveUnderstanding</Name>
+    </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Lib.csproj">
+      <Project>{0dd7c1e9-fdab-e0e6-f4e3-bc8ffda53774}</Project>
+      <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
       <Project>{293e7d9a-76ce-5405-6cda-45c6fd2bfcb3}</Project>
@@ -1061,13 +1100,13 @@
       <Project>{e9329ec2-f7e1-8342-285e-365ce623c4f3}</Project>
       <Name>Oculus.AudioManager</Name>
     </ProjectReference>
-    <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{ed13deb4-1e13-a3fa-d271-a45009c2e0d2}</Project>
-      <Name>Oculus.Spatializer</Name>
-    </ProjectReference>
     <ProjectReference Include="Meta.Voice.VSDKHub.Editor.csproj">
       <Project>{13bb3831-b23f-1196-7062-e3fa4f58fb63}</Project>
       <Name>Meta.Voice.VSDKHub.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.csproj">
+      <Project>{ed13deb4-1e13-a3fa-d271-a45009c2e0d2}</Project>
+      <Name>Oculus.Spatializer</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
       <Project>{974e5226-c366-7eec-d05d-35e9bbc04cac}</Project>
@@ -1173,6 +1212,10 @@
       <Project>{756e08cb-72cd-7a12-2497-9ee35be20253}</Project>
       <Name>VoiceSDK.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
+      <Project>{ba0baba3-5817-dc12-ff7d-e8ca1d7e40cf}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
       <Project>{4a9b3d43-da86-f11d-9a6f-2d7c9829aec7}</Project>
       <Name>Oculus.VR.Editor</Name>
@@ -1197,13 +1240,13 @@
       <Project>{b923a992-ceb4-d204-5fe6-dc8c77e6c6d0}</Project>
       <Name>Meta.XR.BuildingBlocks.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
+      <Project>{0a908227-d686-6e65-1740-df0d9d80b496}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
+    </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
       <Project>{0367a1e5-0757-f78a-f7a4-b326d02fa5a6}</Project>
       <Name>Oculus.AudioManager.Audio.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
-      <Project>{2d35671e-18fd-7828-e1eb-d80041b36ec9}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
       <Project>{6d97e133-17f7-d504-4ee8-ad6afc5aec41}</Project>

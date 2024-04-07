@@ -84,8 +84,8 @@
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Requests\NLP\INLPTextRequestResults.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Requests\UnityRequests\VRequest.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Requests\NLP\INLPTextRequest.cs" />
-     <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Utilities\UnityObjectExtensions.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Data\Info\WitTraitValueInfo.cs" />
+     <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Utilities\UnityObjectExtensions.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Data\Info\WitEntityKeywordInfo.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Json\JsonConverter.cs" />
      <Compile Include="Assets\Oculus\Voice\Lib\Wit.ai\Lib\Wit\Runtime\Json\DateTimeConverter.cs" />
@@ -390,9 +390,6 @@
      <Reference Include="UnityEditor.Graphs">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEditor.Android.Extensions">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEditor.WindowsStandalone.Extensions">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
@@ -428,15 +425,6 @@
      </Reference>
      <Reference Include="Valve.Newtonsoft.Json">
      <HintPath>D:\GitHub\320\Assets\SteamVR\Input\Plugins\JSON.NET\Valve.Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.Types">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.Gradle">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Android.GradleProject">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
